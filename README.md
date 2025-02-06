@@ -17,12 +17,12 @@
 ---
 
 ## 🧑‍💻 **About Me**  
-🔭 **I’m currently**: Full Stack Web Developper Student 
-👯 **I’m looking to collaborate on** Creating Web Apps 
-🌱 **Learning**: Both font and back-end  
-📝 **I regularly write articles on** [Your Blog URL] 
-👨‍💻 **All of my projects are available at** (https://github.com/asmaessafi)
-📫 **Reach me**:   asmaessafi137@gmail.com
+🔭 **I’m currently**: Full Stack Web Developper Student   
+👯 **I’m looking to collaborate on** Creating Web Apps   
+🌱 **Learning**: Both font and back-end    
+📝 **I regularly write articles on** [Your Blog URL]   
+👨‍💻 **All of my projects are available at** (https://github.com/asmaessafi)   
+📫 **Reach me**:   asmaessafi137@gmail.com  
 
 
 ---
