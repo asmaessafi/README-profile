@@ -65,10 +65,10 @@
 
 ## 📈 **GitHub Stats**
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="your-username" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaessafi&" alt="asmaessafi" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=asmaessafi&show_icons=true&locale=en" alt="your-username" /></p>
 
 ---
 
 ✨ **Thanks for visiting**  
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-asmaessafi)](https://github.com/asmaessafi)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.asmaessafi)](https://github.com/asmaessafi)
