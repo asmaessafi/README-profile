@@ -1,7 +1,7 @@
 <!-- Template for README profile github that can replace the placeholders with their own information -->
 
 <h1 align="center">Hi 👋, I'm ASMA</h1>
-<h3 align="center">[Your Tagline]</h3>
+<h3 align="center">I'm a full stack developper</h3>
 
 <h5 align="center">Social Media:</h5>
 <p align="center">
